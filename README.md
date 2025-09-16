@@ -3,7 +3,7 @@
 This repository hosts the app-ads.txt file for the Gym Workout iOS app.
 
 ## File Location
-The app-ads.txt file is available at: `https://hailemedhn.github.io/gym-workout-app-ads/app-ads.txt`
+The app-ads.txt file is available at: `https://hailemedhn.github.io/app-ads.txt`
 
 ## Purpose
 This file helps verify the app's ad inventory and prevent unauthorized ad sales through Google AdMob.
